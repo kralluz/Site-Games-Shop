@@ -1,3 +1,13 @@
+@font-face {
+    font-family: "Nome da Fonte";
+    src: url("caminho/para/fonte.ttf") format("truetype");
+  }
+  
+  body {
+    font-family: "Nome da Fonte", sans-serif;
+  }
+  
+
 * {
     margin: 0;
     padding: 0;
