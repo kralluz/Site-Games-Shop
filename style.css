@@ -150,3 +150,8 @@ footer {
     padding: 16px 0;
     
 }
+
+ul {
+    margin: 16px auto;
+    padding: 10px auto;
+}
